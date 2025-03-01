@@ -7,6 +7,8 @@ In Frog Pond, you set out a pot of flowers for frogs to enjoy when they visit yo
 ## About the Manual
 The goal of the manual is to meet all the frogs. This manual has locations for each frog in the game and all purchased decor. You'll receive Progressive Decor Slots and random Decor Sets that will determine what items you can purchase. Each Progressive Decor Slot will unlock columns of items and the Decor sets will unlock rows. For example, to purchase the RGB Lights item, you will need 3 Progressive Decor Slots and the Arcade Set.
 
+To get started in game, click the red circle with the arrow over it to place a pot of flowers. Wait for cute frogs to come visit. Four will happily visit before you place any decor.
+
 The manual's filler item is Shiny Stones. It is not expected that you manipulate the game in anyway to "cheat" in extra stones. You will receive plenty from the visiting frogs for the decor you unlock.
 
 The game has information for what time of day a frog can appear and what decor they prefer. **Note:** There are two frogs that only appear during a single six hour window of time. If you are unable to play during this time due to sleep or life obligations, you can change the clock on your computer to the frog's preferred time block to have them visit. Please do not intentionally change your sleep schedule for this game!
