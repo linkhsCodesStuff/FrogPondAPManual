@@ -17,6 +17,6 @@ Sometimes frogs will appear without all of their preferred items unlocked and on
 Due to the RNG of frog visits and the time blocks, this manual is not recommended for syncs even with computer clock changes. This manual is intended to be a nice addition to an async, either as a low effort submission or alongside another game.
 
 ## Getting Started
-If you have played before, please move your save files from the following folder: 'C:\Users\(your PC)\App Data\LocalLow\shar\Frog Pond\' These files can be safely placed elsewhere if you'd like to go back to them. This way you can start with a fresh save.
+If you have played before, please move your save files from the following folder: `C:\Users\(your PC)\App Data\LocalLow\shar\Frog Pond\` These files can be safely placed elsewhere if you'd like to go back to them. This way you can start with a fresh save.
 
 To get started in game, click the red circle with the arrow over it to place a pot of flowers. Wait for cute frogs to come visit. Four will happily visit before you place any decor to get you some checks.
